@@ -4,3 +4,6 @@ Thanks to https://www.codingnepalweb.com/ for the code resources. I was very bor
 # Credits
 - ![CodingNepal](https://www.codingnepalweb.com/create-snake-game-htm-css-javascript/)
 - ![w3school](https://www.codingnepalweb.com/create-snake-game-htm-css-javascript/](https://www.w3schools.com/howto/howto_css_fixed_footer.asp))
+
+# Demo!
+![Click Me!](https://randev-snakegame.netlify.app/)
